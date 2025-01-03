@@ -12,13 +12,7 @@ Visualization: Tools to visualize predictions, ground truth, and overlayed resul
 here is the link of all files and dataset:
 https://drive.google.com/drive/folders/1YGq0RK684DxgUSJmV07uUl9O4xLJqSDK?usp=drive_link
 
-Getting Started
-Clone the repository:
-
-bash
-git clone
-https://github.com/dhyanidarji/Road_Detection_using_Unet.git  
-cd Road_Detection_using_Unet  
+Getting Started  
 
 Install dependencies:
 bash
