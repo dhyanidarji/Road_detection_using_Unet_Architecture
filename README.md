@@ -8,6 +8,10 @@ Preprocessing: Includes utilities for data augmentation, resizing, normalization
 Training Pipeline: End-to-end training pipeline with support for callbacks, learning rate schedulers, and checkpointing.
 Evaluation Metrics: Calculates segmentation-specific metrics such as Intersection over Union (IoU), F1 Score, Precision, and Recall.
 Visualization: Tools to visualize predictions, ground truth, and overlayed results.
+
+here is the link of all files and dataset:
+https://drive.google.com/drive/folders/1YGq0RK684DxgUSJmV07uUl9O4xLJqSDK?usp=drive_link
+
 Getting Started
 Clone the repository:
 
