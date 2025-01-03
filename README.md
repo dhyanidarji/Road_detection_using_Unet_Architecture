@@ -12,13 +12,12 @@ Getting Started
 Clone the repository:
 
 bash
-Copy code
-git clone https://github.com/dhyanidarji/Road_Detection_using_Unet.git  
+git clone
+https://github.com/dhyanidarji/Road_Detection_using_Unet.git  
 cd Road_Detection_using_Unet  
-Install dependencies:
 
+Install dependencies:
 bash
-Copy code
 pip install -r requirements.txt  
 Prepare your dataset:
 Place your images and masks in the specified folder structure or use the dataset loader provided.
